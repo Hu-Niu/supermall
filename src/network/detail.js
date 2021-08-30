@@ -1,8 +1,9 @@
-import { request } from "./request";
+import axios from './axios'
+
 
 //导出详情页数据
 export function getDetail(iid) {
-  return request({
+  return axios({
     url: '/detail',
     params: {
       iid
@@ -12,7 +13,7 @@ export function getDetail(iid) {
 
 //导出详情页底部推荐数据
 export function getRecommend(){
-  return request({
+  return axios({
     url:'/recommend',
   })
 }
