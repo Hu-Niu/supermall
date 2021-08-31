@@ -13,20 +13,19 @@ HTML+CSS+JS,Vue,Vuecli3,Vue-Router,axios,vue-lazyload,webpack,VueX,mixin
 ## 项目截图展示:
 
 ### 主页
-
 ![home](https://raw.githubusercontent.com/Hu-Niu/supermall/main/imgs/home.png)
 ![home2](https://raw.githubusercontent.com/Hu-Niu/supermall/main/imgs/home2.png)
 
-### 详情页
+### 商品详情
 ![detail](https://raw.githubusercontent.com/Hu-Niu/supermall/main/imgs/detail.png)
 
-### 分类
+### 商品分类
 ![category](https://raw.githubusercontent.com/Hu-Niu/supermall/main/imgs/category.png)
 
 ### 购物车
 ![cart](https://raw.githubusercontent.com/Hu-Niu/supermall/main/imgs/cart.png)
 
-### 我的
+### 个人信息
 ![profile](https://github.com/Hu-Niu/supermall/blob/main/imgs/profile.png)
 
 
