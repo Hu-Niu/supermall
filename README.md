@@ -11,20 +11,20 @@ HTML+CSS+JS,Vue,Vuecli3,Vue-Router,axios,vue-lazyload,webpack,VueX,mixin
 
 ##项目截图展示:
 ```
-###主页
+主页
 ![home](https://user-images.githubusercontent.com/81688475/131467561-4f70138c-e873-4c1d-8129-3bcfc2ed3637.png)
 ![home2](https://user-images.githubusercontent.com/81688475/131467593-a1cfccbf-5585-447c-a0ef-65e9e4386ccb.png)
-```
-###详情页
+
+详情页
 ![detail](https://user-images.githubusercontent.com/81688475/131467619-f4c8651a-1872-4331-a790-16763b4bf6d3.png)
 
-###分类
+分类
 ![category](https://user-images.githubusercontent.com/81688475/131467625-80160c23-fb1a-4063-bdb0-1c00a01a8b6a.png)
 
-###购物车
+购物车
 ![cart](https://user-images.githubusercontent.com/81688475/131467519-3a5ec030-f4ad-485d-bb86-79c5871a72e9.png)
 
-###我的
+我的
 ```
 
 
