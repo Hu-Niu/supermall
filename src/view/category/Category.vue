@@ -8,9 +8,6 @@
       <scroll id="tab-content" :data="[categoryData]">
         <div>
           <tab-content-category :subcategories="showSubcategory"></tab-content-category>
-          <tab-control :titles="['综合', '新品', '销量']"
-                       @itemClick="tabClick"></tab-control>
-          <tab-content-detail :category-detail="showCategoryDetail"></tab-content-detail>
         </div>
       </scroll>
     </div>
@@ -21,10 +18,8 @@
   import NavBar from 'common/navbar/NavBar'
 
   import TabMenu from './childComps/TabMenu'
-  import TabControl from 'content/tabControl/TabControl'
   import Scroll from 'common/scroll/Scroll'
   import TabContentCategory from './childComps/TabContentCategory'
-  import TabContentDetail from './childComps/TabContentDetail'
 
   import {getCategory, getSubcategory, getCategoryDetail} from "network/category";
   import {POP, SELL, NEW} from "@/common/const";
@@ -35,10 +30,8 @@
     components: {
 		  NavBar,
       TabMenu,
-      TabControl,
       Scroll,
       TabContentCategory,
-      TabContentDetail
     },
     mixins: [tabControlMixin],
     data() {
@@ -58,10 +51,6 @@
 		    if (this.currentIndex === -1) return {}
         return this.categoryData[this.currentIndex].subcategories
       },
-      showCategoryDetail() {
-		    if (this.currentIndex === -1) return []
-		    return this.categoryData[this.currentIndex].categoryDetail[this.currentType]
-      }
     },
     methods: {
 		  _getCategory() {
