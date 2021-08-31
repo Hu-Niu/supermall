@@ -9,7 +9,7 @@
 HTML+CSS+JS,Vue,Vuecli3,Vue-Router,axios,vue-lazyload,webpack,VueX,mixin
 ```
 
-##项目截图展示:
+## 项目截图展示:
 ```
 主页
 ![home](https://user-images.githubusercontent.com/81688475/131467561-4f70138c-e873-4c1d-8129-3bcfc2ed3637.png)
