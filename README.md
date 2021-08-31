@@ -7,10 +7,19 @@ HTML+CSS+JS,Vue,Vuecli3,Vue-Router,axios,vue-lazyload,webpack,VueX,mixin
 
 项目截图展示:
 主页
+![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
 详情页
+![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
 分类
+![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
 购物车
+![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
 我的
+
+
+
+
 ## Project setup
 ```
 npm install
