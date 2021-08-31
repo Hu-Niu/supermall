@@ -5,7 +5,7 @@
 该项目运用到的技术栈/技术:
 HTML+CSS+JS,Vue,Vuecli3,Vue-Router,axios,vue-lazyload,webpack,VueX,mixin
 
-# 项目截图展示:
+项目截图展示:
 主页
 详情页
 分类
