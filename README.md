@@ -14,21 +14,20 @@ HTML+CSS+JS,Vue,Vuecli3,Vue-Router,axios,vue-lazyload,webpack,VueX,mixin
 
 ### 主页
 
-![home](https://user-images.githubusercontent.com/81688475/131467561-4f70138c-e873-4c1d-8129-3bcfc2ed3637.png)
-![home2](https://user-images.githubusercontent.com/81688475/131467593-a1cfccbf-5585-447c-a0ef-65e9e4386ccb.png)
+![home](https://raw.githubusercontent.com/Hu-Niu/supermall/main/imgs/home.png)
+![home2](https://raw.githubusercontent.com/Hu-Niu/supermall/main/imgs/home2.png)
 
 ### 详情页
-
-![detail](https://user-images.githubusercontent.com/81688475/131467619-f4c8651a-1872-4331-a790-16763b4bf6d3.png)
+![detail](https://raw.githubusercontent.com/Hu-Niu/supermall/main/imgs/detail.png)
 
 ### 分类
-![category](https://user-images.githubusercontent.com/81688475/131467625-80160c23-fb1a-4063-bdb0-1c00a01a8b6a.png)
+![category](https://raw.githubusercontent.com/Hu-Niu/supermall/main/imgs/category.png)
 
 ### 购物车
-![cart](https://user-images.githubusercontent.com/81688475/131467519-3a5ec030-f4ad-485d-bb86-79c5871a72e9.png)
+![cart](https://raw.githubusercontent.com/Hu-Niu/supermall/main/imgs/cart.png)
 
 ### 我的
-
+![profile](https://github.com/Hu-Niu/supermall/blob/main/imgs/profile.png)
 
 
 
